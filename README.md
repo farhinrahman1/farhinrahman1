@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **Prisma, Next.js, typescript**
+- 🌱 I’m currently learning **Figma, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
 
