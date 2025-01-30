@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React.js and Next.js**
 
-- 🌱 I’m currently learning **Figma , React and Next.js**
+- 🌱 I’m learning **Figma , React and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
 
