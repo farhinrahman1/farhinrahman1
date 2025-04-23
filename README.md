@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **React.js and Next.js**
 
-- 🌱 I’m learning **Figma , React, Next.js, and Latex**
-
 - 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
 
 - 📫 How to reach me **farhinrahmanp@gmail.com**
