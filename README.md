@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farhin Rahman</h1>
-<h3 align="center">A frontend developer passionate about designing visually stunning websites and continuously learning new skills to excel at the forefront of the industry.</h3>
+<h3 align="center">A frontend developer passionate about designing visually stunning websites and learning new skills to excel at the forefront of the industry.</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhinrahman1&label=Profile%20views&color=0e75b6&style=flat" alt="farhinrahman1" /> </p>
 
-- 🔭 I’m currently working on **React.js and Next.js**
+- 🔭 I’m currently working on **React.js, Next.js, and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
 
