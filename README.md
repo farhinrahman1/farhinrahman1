@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhinrahman1&label=Profile%20views&color=0e75b6&style=flat" alt="farhinrahman1" /> </p>
 
-- 🔭 I’m currently working on **React.js, Next.js, and Typescript**
+- 🔭 I’m currently working on **Frontend Development, React, and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
 
