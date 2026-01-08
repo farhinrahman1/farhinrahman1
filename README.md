@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhinrahman1&label=Profile%20views&color=0e75b6&style=flat" alt="farhinrahman1" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development, React, and Next.js**
+- 🔭 I’m currently working on **Frontend Development, React, UX/UI and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
+- 👨‍💻 All of my frontend projects are available at [https://github.com/farhinrahman1](https://github.com/farhinrahman1)
+
+- 👨‍💻 All my UX/UI projects are available at [https://www.figma.com/@farhin](https://www.figma.com/@farhin)
 
 - 📫 How to reach me **farhinrahmanp@gmail.com**
 
