@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhin Rahman</h1>
 <h3 align="center">Frontend Developer • UI/UX • Research-Oriented</h3>
 <br/>
-<h4>Designing interactive, performance-focused web experiences</h4>
+<h4 align="center">Designing interactive, performance-focused web experiences</h4>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
